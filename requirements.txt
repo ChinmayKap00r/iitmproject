@@ -8,3 +8,4 @@ pillow
 beautifulsoup4
 sqlite-utils
 tiktoken
+fuzzywuzzy
