@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
+requests
+pillow
+beautifulsoup4
+sqlite-utils
+tiktoken
